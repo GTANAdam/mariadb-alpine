@@ -1,3 +1,4 @@
+[![](https://images.microbadger.com/badges/version/adambh/mariadb-alpine.svg)](https://microbadger.com/images/adambh/mariadb-alpine "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/adambh/mariadb-alpine.svg)](https://microbadger.com/images/adambh/mariadb-alpine "Get your own image badge on microbadger.com")
 # Lightweight mariadb docker container
 
 Yet another MariaDB docker container based on https://github.com/yobasystems/alpine-mariadb, while the base repo focuses on the minimal size, this fork takes it even further by removing the unnecessary binaries without sacrificing proper functionality.
