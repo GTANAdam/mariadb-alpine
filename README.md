@@ -56,7 +56,7 @@ Yet another MariaDB docker container based on https://github.com/yobasystems/alp
 * `MYSQL_PASSWORD`: specify the User password for the database
 * `MYSQL_ROOT_PASSWORD`: specify the root password for Mariadb
 
-## Usage
+## Usage example
 
 ```bash
 docker run --rm --name mariadb -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 -d adambh/mariadb-alpine:latest
